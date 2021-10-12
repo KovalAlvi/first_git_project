@@ -18,5 +18,7 @@ if __name__ == '__main__':
     plt.show()
 
     plt.plot(np.cos(2* np.pi*x))
+    plt.plot(np.cos(2* np.pi*x))
+
     plt.show()
 
